@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "손헌",
+      "titles": [ "Data Scientist", "ML Engineer", "AI Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/honeycaron",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "personal blog",
+          "url": "https://velog.io/@hunny1126",
+          "class": "fa fa-comment"
+        },
+        {
+          "name": "email",
+          "url": "mailto:hunny1126@gmail.com",
+          "class": "fa fa-envelope"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Tensorflow",
+          "class": "devicon-tensorflow-original",
+          "level": "90"
+        },
+        {
+          "name": "Pytorch",
+          "class": "devicon-codeigniter-plain",
+          "level": "90"
+        },
+        {
+          "name": "Jupyter",
+          "class": "devicon-jupyter-plain",
+          "level": "80"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "80"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
