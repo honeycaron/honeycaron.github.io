@@ -16,10 +16,10 @@
         "description": "투이컨설팅에서 진행하는 '디지털 성숙도' 프로젝트에 참여하여 금융사를 위한 디지털 성숙 수준 모형을 개발하고 이를 파이썬 코드로 작성하였습니다. 또한, 오픈소스 라이브러인 python-pptx를 활용하여 기업의 응답데이터를 자동으로 파워포인트 보고서 형식으로 출력해주는 '보고서 자동화 기능'도 파이썬 코드로 구현하였습니다. 보고서에는 워드 클라우드, 레이다, 바이올린 그래프 등 다양한 시각화 요소들을 포함시켰으며, 보고서의 텍스트도 기업의 응답 결과에 따라 달라지도록 구현하였습니다. 이렇게 자동화한 보고서를 2년동안 총 118개 국내 금융사에게 제공했습니다.",
         "images": [
           "images/portfolio/dm/dm1.png",
-          "images/portfolio/dm/dm2.png",
-          "images/portfolio/dm/dm3.png",
-          "images/portfolio/dm/dm4.png",
-          "images/portfolio/dm/dm5.png"
+          "images/portfolio/dm/dm2.PNG",
+          "images/portfolio/dm/dm3.PNG",
+          "images/portfolio/dm/dm4.PNG",
+          "images/portfolio/dm/dm5.PNG"
         ],
         "url": "",
         "technologies": [
@@ -39,8 +39,8 @@
         "description": "소프트웨어공학개론 수업의 팀프로젝트로 소프트웨어 개발 프로세스의 요구사항 분석부터 기능 명세, 설계, 구현, 테스팅까지 전 단계를 거쳐 파이썬 기반 문제 추천 및 학습 서비스를 개발했습니다. 프론트엔드는 Bootstrap과 Vue.js를 활용했으며 백엔드는 Django와 MySQL을 사용했습니다. 저는 팀에서 데이터베이스에 필요한 모델(Django)을 작성하고, 서비스에 필요한 문제DB를 구축하는 역할을 담당했습니다.",
         "images": [
           "images/portfolio/q/q.png",
-          "images/portfolio/q/q1.png",
-          "images/portfolio/q/q2.png"
+          "images/portfolio/q/q1.PNG",
+          "images/portfolio/q/q2.PNG"
         ],
         "url": "https://github.com/skkuse/2019spring_01class_team4",
         "technologies": [
@@ -67,8 +67,8 @@
         "startDate": "2018",
         "description": "파이썬으로 알티캐스트와의 산학협력 프로젝트에서 '자연어 처리 기반 영화 추천 서비스'를 개발했습니다. word2vec, KoNLPy, tf-idf, K-Means를 활용하였고, 추천시스템은 영화 벡터와 쿼리 벡터 간의 코사인 거리를 측정하는 방식으로 flask에서 구현하였습니다.",
         "images": [
-          "images/portfolio/movie/movie1.png",
-          "images/portfolio/movie/movie2.png"
+          "images/portfolio/movie/movie1.PNG",
+          "images/portfolio/movie/movie2.PNG"
         ],
         "url": "https://github.com/honeycaron/2018_movie_recommendation",
         "technologies": [
