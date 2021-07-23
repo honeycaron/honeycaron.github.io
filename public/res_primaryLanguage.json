@@ -39,7 +39,7 @@
         "description": "소프트웨어공학개론 수업의 팀프로젝트로 소프트웨어 개발 프로세스의 요구사항 분석부터 기능 명세, 설계, 구현, 테스팅까지 전 단계를 거쳐 파이썬 기반 문제 추천 및 학습 서비스를 개발했습니다. 프론트엔드는 Bootstrap과 Vue.js를 활용했으며 백엔드는 Django와 MySQL을 사용했습니다. 저는 팀에서 데이터베이스에 필요한 모델(Django)을 작성하고, 서비스에 필요한 문제DB를 구축하는 역할을 담당했습니다.",
         "images": [
           "images/portfolio/q/q.png",
-          "images/portfolio/q/q1.PNG",
+          "images/portfolio/q/q1.png",
           "images/portfolio/q/q2.PNG"
         ],
         "url": "https://github.com/skkuse/2019spring_01class_team4",
